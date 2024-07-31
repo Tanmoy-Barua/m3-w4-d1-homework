@@ -1,4 +1,3 @@
-/*------------------------------ import Fonts ------------------------------*/
 @font-face {
   font-family: 'Poppins';
   font-style: italic;
@@ -114,7 +113,7 @@
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/syncopate/v21/pe0pMIuPIYBCpEV5eFdKvtKaAw.ttf) format('truetype');
 }
-/* Font Families */
+/* Fonts Variable */
 /* Color Variables */
 /* Mixin for box-sizing and transition */
 * {
